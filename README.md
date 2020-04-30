@@ -12,6 +12,8 @@ Version  2.0
 To play:
 Download repo and run battleship_v2.py with your code editor. 
 
+![Game UI](/Game_UI.png)
+
 
 
 
